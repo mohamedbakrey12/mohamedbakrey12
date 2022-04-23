@@ -146,35 +146,17 @@
 </p>
 
 <p align="center">
+	  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/competition" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/competition/light" />
+	
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/dataset/light" />
+	<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/dataset" />
+	
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/notebook/light" />
+	<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/notebook" />
+	
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/discussion/light" />
+	  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/discussion" />
 </p>
 
 
-### Competition
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/competition)
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/competition/light)
-
-### Dataset
-
-
-
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/dataset)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/dataset/light)
-
-### Notebook
-
-
-
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/notebook)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/notebook/light)
-
-### Discussion
-
-
-
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/discussion)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/discussion/light)
