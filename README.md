@@ -127,7 +127,9 @@
   </p>
 
 ----
+### :trophy: Git profile Trophies
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedbakrey12&layout=compact&theme=algolia" alt="mohamed bakrey" /></a> </p>
 
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
