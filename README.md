@@ -155,8 +155,6 @@
 
 ### Competition
 
-
-
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/competition)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/competition/light)
 
@@ -180,7 +178,3 @@
 
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/discussion)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/discussion/light)
-
-## License
-
-Original design licenses for tiers, medals and colors are all owned by Kaggle.
