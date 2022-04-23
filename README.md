@@ -23,16 +23,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-bakrey-2aba281b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-bakrey-2aba281b2 height="30" width="40" /></a>
-  
-<a href="https://fb.com/100009551691235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedbakrey" height="30" width="40" /></a>
-  
-<a href="https://www.kaggle.com/mohamedbakrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedbakrey" height="30" width="40" /></a>
-  
-<a href="https://twitter.com/Bakar2200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bakar2200" height="30" width="40" /></a>
-  
-<a href="mohamedbakrey#0119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0119" height="30" width="40" /></a>
-</p>
+📫 How to reach me GitHub: ** https://github.com/mohamedbakrey12 **
+- Kaggle:** https://www.kaggle.com/mohamedbakrey **
+- LinkedIn:** https://www.linkedin.com/in/mohamed-bakrey-2aba281b2/ **
 
   
 ## 🔥 Streak Stats
