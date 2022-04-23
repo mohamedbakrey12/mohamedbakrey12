@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedbakrey12" alt="mohamedbakrey12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@bakar2200" target="blank"><img src="https://img.shields.io/twitter/follow/@bakar2200?logo=twitter&style=for-the-badge" alt="@bakar2200" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bakar2200" target="blank"><img src="https://img.shields.io/twitter/follow/bakar2200?logo=twitter&style=for-the-badge" alt="bakar2200" /></a> </p>
 
 - 🔭 I’m currently working on **Skin cancer classification project using deep learning**
 
@@ -23,9 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@bakar2200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bakar2200" height="30" width="40" /></a>
+<a href="https://twitter.com/bakar2200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bakar2200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-bakrey-2aba281b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-bakrey-2aba281b2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mohamedbakrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamedbakrey" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamedbakrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedbakrey" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohamed bakrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamed bakrey" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009551691235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009551691235" height="30" width="40" /></a>
 </p>
 
@@ -37,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedbakrey12&show_icons=true&locale=en" alt="mohamedbakrey12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedbakrey12&" alt="mohamedbakrey12" /></p>
-
