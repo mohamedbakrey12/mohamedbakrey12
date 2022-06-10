@@ -21,11 +21,7 @@
 - :nerd_face: Always `I am excited about new and important topics`
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-📫 How to reach me GitHub: ** https://github.com/mohamedbakrey12 **
-- Kaggle:** https://www.kaggle.com/mohamedbakrey **
-- LinkedIn:** https://www.linkedin.com/in/mohamed-bakrey-2aba281b2/ **
+
 
   
 ## 🔥 Streak Stats
