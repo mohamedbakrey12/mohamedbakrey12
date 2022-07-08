@@ -17,7 +17,7 @@
 - 💬 Ask me about **Machine Learning , Deep Learning **
 
 - 📫 How to reach me **mohmaedbakrey094@gmail.com**
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [My Resume](https://github.com/mohamedbakrey12/MY-CV).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [My Resume](https://github.com/mohamedbakrey12/MY-CV/blob/main/Mohamed%20Bakrey.Data%20Scientist..pdf).
 - :nerd_face: Always `I am excited about new and important topics`
 <br>
 
