@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedbakrey12&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbakrey12" />
-		   <img src="https://badges.pufler.dev/repos/mohamedbakrey12" alt="mohamedbakrey12"/>
+		   
 		   <img src="https://img.shields.io/github/followers/mohamedbakrey12?label=Followers" alt="mohamedbakrey12" />
 </p>
 
