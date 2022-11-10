@@ -2,21 +2,26 @@
 <h3 align="center">Data Scientist</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedbakrey12&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbakrey12" />
-		   
-		   <img src="https://img.shields.io/github/followers/mohamedbakrey12?label=Followers" alt="mohamedbakrey12" />
+<img src="https://img.shields.io/github/followers/mohamedbakrey12?label=Followers" alt="mohamedbakrey12" />
+
 </p>
 
-
 - :school: I am a `Senior` at Higher Institute of Computer Science and Information Systems, 6th of October
+- 
 - 🔭 I’m currently working on [Skin cancer classification project using deep learning](https://www.kaggle.com/code/mohamedbakrey/skin-cancer-detection-by-deep-learning-models)
-- 🌱 I’m currently learning `Advanced Deep Learning Engineering`
+
+- 🌱 I’m currently learning `Machine Learning Engineering`
+- 
 - 👯 I’m looking to collaborate to implement a [New deep learning algorithm](https://pubmed.ncbi.nlm.nih.gov/33267477/)
 
 - 👨‍💻 All of my projects are available on at [https://github.com/mohamedbakrey12](https://github.com/mohamedbakrey12)
 
 - 💬 Ask me about **Machine Learning , Deep Learning **
 
-- 📫 How to reach me **mohmaedbakrey094@gmail.com**
+- 📫 How to reach me 
+
+- <a href="https://wa.me/201014623377?text=Hello"><img align="center" src="https://img.icons8.com/color/30/000000/whatsapp--v6.png"/></a>  |  <a href="https://www.facebook.com/100009551691235/"><img align="center" src="https://img.icons8.com/color/30/000000/facebook-circled--v4.png"/></a>  |  <a href="https://www.linkedin.com/in/mohamed-bakrey-2aba281b2//"><img align="center" src="https://img.icons8.com/color/30/000000/linkedin.png"/></a>  |  <a href="https://t.me/bakar20088"><img align="center" src="https://img.icons8.com/color/30/000000/telegram-app--v5.png"/></a>  |  <a href="https://github.com/mohamedbakrey12"><img align="center" src="https://img.icons8.com/color/30/000000/github--v3.png"/></a>  |  <a href="mailto:mohamedbakrey094@gmail.com"><img align="center" src="https://img.icons8.com/color/30/000000/secured-letter--v2.png"/></a>
+
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [My Resume](https://github.com/mohamedbakrey12/MY-CV/blob/main/Mohamed%20Bakrey.Data%20Scientist..pdf).
 - :nerd_face: Always `I am excited about new and important topics`
 <br>
@@ -133,10 +138,8 @@
   <br/>
 
 
-
 <p align="center">
- 
- 
+
  
   <p align="center">🥇MY Achivment On Kaggle🥇</p>
 </p>
@@ -155,4 +158,5 @@
 	  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/discussion" />
 </p>
 
+<!--![snake gif](https://github.com/mohamedbakrey12/mohamedbakrey12/blob/output/github-contribution-grid-snake.svg)-->
 
