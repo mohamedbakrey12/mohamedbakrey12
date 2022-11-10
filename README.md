@@ -7,11 +7,11 @@
 </p>
 
 - :school: I am a `Senior` at Higher Institute of Computer Science and Information Systems, 6th of October
-- 
+
 - 🔭 I’m currently working on [Skin cancer classification project using deep learning](https://www.kaggle.com/code/mohamedbakrey/skin-cancer-detection-by-deep-learning-models)
 
 - 🌱 I’m currently learning `Machine Learning Engineering`
-- 
+
 - 👯 I’m looking to collaborate to implement a [New deep learning algorithm](https://pubmed.ncbi.nlm.nih.gov/33267477/)
 
 - 👨‍💻 All of my projects are available on at [https://github.com/mohamedbakrey12](https://github.com/mohamedbakrey12)
