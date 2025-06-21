@@ -13,11 +13,9 @@
 - 🎓 Graduated in 2023 from the Higher Institute of Computer Science & Information Systems – 6th of October City  
 - 🔭 Currently working on: [Skin Cancer Detection using Deep Learning](https://www.kaggle.com/code/mohamedbakrey/skin-cancer-detection-by-deep-learning-models)  
 - 🌱 Actively learning: **Machine Learning Engineering**  
-- 🤝 Open to collaborate on innovative Deep Learning research ([Example](https://pubmed.ncbi.nlm.nih.gov/33267477/))  
+- 🤝 Open to collaborate on innovative Deep Learning research ([Example](https://www.sciencedirect.com/science/article/abs/pii/S020852162200047X))  
 - 📂 Explore all my projects on [GitHub](https://github.com/mohamedbakrey12)  
 - 💬 Ask me about: **Machine Learning**, **Deep Learning**, **Computer Vision**  
-- 📄 Check out my [Resume](https://github.com/mohamedbakrey12/MY-CV/blob/main/Mohamed%20Bakrey.Data%20Scientist..pdf)  
-
 ---
 
 ## 📬 Connect with Me
