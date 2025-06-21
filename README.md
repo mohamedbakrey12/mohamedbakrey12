@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Bakrey Mahmoud</h1>
-<h3 align="center">Aspiring Data Scientist | Deep Learning Enthusiast</h3>
+<h3 align="center">Data Scientist | Deep Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedbakrey12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,10 +10,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Senior Student at Higher Institute of Computer Science & Information Systems – 6th of October City  
+- 🎓 Graduated in 2023 from the Higher Institute of Computer Science & Information Systems – 6th of October City  
 - 🔭 Currently working on: [Skin Cancer Detection using Deep Learning](https://www.kaggle.com/code/mohamedbakrey/skin-cancer-detection-by-deep-learning-models)  
 - 🌱 Actively learning: **Machine Learning Engineering**  
-- 🤝 Open to collaboration: [New Deep Learning Techniques](https://pubmed.ncbi.nlm.nih.gov/33267477/)  
+- 🤝 Open to collaborate on innovative Deep Learning research ([Example](https://pubmed.ncbi.nlm.nih.gov/33267477/))  
 - 📂 Explore all my projects on [GitHub](https://github.com/mohamedbakrey12)  
 - 💬 Ask me about: **Machine Learning**, **Deep Learning**, **Computer Vision**  
 - 📄 Check out my [Resume](https://github.com/mohamedbakrey12/MY-CV/blob/main/Mohamed%20Bakrey.Data%20Scientist..pdf)  
@@ -112,20 +112,4 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=mohamedbakrey12&custom_title=Mohamed%20Bakrey%27s%20Contribution%20Graph&theme=react-dark" />
 </p>
 
----
-
-## 🥇 Kaggle Achievements
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/competition" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mohamedbakrey/discussion" />
-</p>
-
----
-
-## 🔗 Portfolio
-
-🎯 Check out my interactive portfolio: [My Portfolio Website](https://my-portfolio2.mohamedbakery.repl.co/)
 
