@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Bakrey Mahmoud</h1>
-<h3 align="center">Data Scientist | Deep Learning Enthusiast</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedbakrey12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -102,14 +102,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamedbakrey12&theme=algolia&margin-w=15&no-bg=true" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mohamedbakrey12&custom_title=Mohamed%20Bakrey%27s%20Contribution%20Graph&theme=react-dark" />
 </p>
 
 
