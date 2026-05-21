@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Bakrey%20Mahmoud&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20&descColor=a8dadc" width="100%"/>
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-bakrey-mahmoud-2aba281b2/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedbakrey)
